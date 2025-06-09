@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Cara Menghubungi Saya
-- Email: haekalzain@example.com
+- Email: haekalzainmuzaki@gmail.com
 - Instagram: [@kaljainn](https://www.instagram.com/kaljainn?igsh=MWV4eHNxeGl5dG96Zw==)
 - GitHub: [Haekalzeyn](https://github.com/Haekalzeyn)
 
