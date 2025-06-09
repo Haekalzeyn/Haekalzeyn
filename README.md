@@ -1,4 +1,4 @@
-<img src="img/download.jpg" alt="Banner Haekal Zain" width="100%"/>
+![Haekal zeyn](img/github-header-image.png)
 
 ## 👋 Hello World, I'm Haekal Zain
 
