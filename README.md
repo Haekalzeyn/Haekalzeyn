@@ -1,4 +1,4 @@
-<img src="img/download.jpg" alt="Banner Haekal Zain" width="100%"/>
+<img src="img/download.jpg" alt="Banner Haekal Zain" width="10%"/>
 
 ## 👋 Hello World, I'm Haekal Zain
 
