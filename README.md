@@ -1,4 +1,6 @@
+
 ![Haekal zeyn](img/github-header-image.png)
+
 
 ## 👋 Hello World, I'm Haekal Zain
 
@@ -26,12 +28,12 @@
 ---
 
 ### 📫 Cara Menghubungi Saya
-- Email: haekalzain@example.com
+- Email: haekalzainmuzaki@gmail.com
 - Instagram: [@kaljainn](https://www.instagram.com/kaljainn?igsh=MWV4eHNxeGl5dG96Zw==)
 - GitHub: [Haekalzeyn](https://github.com/Haekalzeyn)
 
 ---
 
 ### ⚡ Fun Fact
-> "Belajar itu seperti debugging, lama di awal, pusing di akhir." 😁
+> "Belajar itu seperti debugging, lama di awal, puass di akhir." 😁
 
