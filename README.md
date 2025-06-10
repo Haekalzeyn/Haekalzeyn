@@ -34,6 +34,6 @@
 
 ---
 
-### ⚡ Fun Fact
+##⚡ Fun Fact
 > "Belajar itu seperti debugging, lama di awal, puass di akhir." 😁
 
