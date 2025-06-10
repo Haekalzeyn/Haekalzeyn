@@ -37,7 +37,7 @@
 ---
 
 ### 📫 Cara Menghubungi Saya
-![https://instagram.com/kaljainn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/kaljainn?igsh=MWV4eHNxeGl5dG96Zw==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ---
