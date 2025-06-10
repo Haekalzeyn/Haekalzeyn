@@ -19,6 +19,7 @@
 
 ---
 
+
 ### 🛠️ Skills
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,6 +30,10 @@
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/>
 
+### 🛠️ Tools & Technologies
+
+
+
 ---
 
 ### 📫 Cara Menghubungi Saya
@@ -37,6 +42,6 @@
 
 ---
 
-### ⚡ Fun Fact
+##⚡ Fun Fact
 > "Belajar itu seperti debugging, lama di awal, puass di akhir." 😁
 
