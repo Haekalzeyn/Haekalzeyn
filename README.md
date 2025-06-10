@@ -33,6 +33,10 @@
 
 ---
 
-##⚡ Fun Fact
-> "Belajar itu seperti debugging, lama di awal, puass di akhir." 😁
+#### 📈 My Github stats
+![HaekalZeyn GitHub stats](https://github-readme-stats.vercel.app/api?username=Haekalzeyn&show_icons=true&theme=dark&locale=id)
+
+
+
+
 
