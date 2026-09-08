@@ -20,19 +20,31 @@
 <hr />
 
 ### 🟪 Tumpukan Teknologi
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <hr />
 
 ### 🟪 Bahasa & Alat yang Pernah Saya Gunakan
-<p align="left">
+<p align="center">
+  <!-- Baris 1 (Paling Lebar - 5 Icon) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  </a>
+  <br />
+  <!-- Baris 2 (Sedang - 4 Icon) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
+  </a>
+  <br />
+  <!-- Baris 3 (Puncak Piramida Bawah - 3 Icon) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   </a>
 </p>
 
