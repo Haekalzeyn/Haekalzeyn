@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Banner GIF/Gambar Anime -->
-  <img src="https://i.pinimg.com/originals/ba/92/7f/ba927f05256e7f80f12c1c3c978001fb.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+  <!-- Banner Gambar Tangan (Pixel/Dither Aesthetic) -->
+  <img src="https://i.pinimg.com/originals/c8/17/34/c81734293f0b2f5b4cb0e7b8fa3a3390.gif" width="100%" alt="Header Banner" />
 
+  <br />
   <br />
 
   <!-- Teks Ketik Otomatis -->
