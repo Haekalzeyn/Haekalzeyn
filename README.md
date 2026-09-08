@@ -37,11 +37,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   </a>
   <br />
-  <!-- Baris 2 (Sedang - 4 Icon) -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
-  </a>
-  <br />
   <!-- Baris 3 (Puncak Piramida Bawah - 3 Icon) -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
