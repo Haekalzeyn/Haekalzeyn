@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Gambar Tangan (Pixel/Dither Aesthetic) -->
-  <img src="https://i.pinimg.com/originals/c8/17/34/c81734293f0b2f5b4cb0e7b8fa3a3390.gif" width="100%" alt="Header Banner" />
+  <!-- Panggil nama file gambar yang di-upload tadi -->
+  <img src="download(3).jpg" width="100%" alt="Header Banner" />
 
   <br />
   <br />
