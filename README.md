@@ -40,9 +40,5 @@
 
 ### 🟪 Statistik GitHub
 <p align="center">
-  <!-- Kartu Statistik Utama -->
-  <img src="https://github-readme-stats-eight-theplace.vercel.app/api?username=Haekalzeyn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <!-- Bahasa yang Sering Digunakan -->
-  <img src="https://github-readme-stats-eight-theplace.vercel.app/api/top-langs/?username=Haekalzeyn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haekalzeyn&theme=tokyonight" width="100%" />
 </p>
