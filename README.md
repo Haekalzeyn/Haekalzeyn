@@ -1,41 +1,45 @@
 <div align="center">
-  <!-- Ganti link di bawah dengan gambar/GIF anime pilihanmu -->
-  <img src="https://i.pinimg.com/originals/ba/92/7f/ba927f05256e7f80f12c1c3c978001fb.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
+  <!-- Banner GIF/Gambar Anime -->
+  <img src="https://i.pinimg.com/originals/ba/92/7f/ba927f05256e7f80f12c1c3c978001fb.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+
+  <br />
+
+  <!-- Teks Ketik Otomatis -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vcenter=true&width=435&lines=Halo!+Saya+Haekal;Front-end+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
 
-### 🟪 About me
-I am a Computer Science student passionate about turning ideas into solid, scalable, and well-designed digital products.
+### 🟪 Tentangnya Saya
+* 🔭 Lagi fokus ngembangin **aplikasi web interaktif & responsif**.
+* 🛠️ Suka ngulik UI/UX, komponen slider, sama animasi web.
+* 💬 Tanya-tanya soal HTML, CSS, JavaScript, atau React? Gaskeun!
 
 <hr />
 
-### 🟪 Tech Stack
+### 🟪 Tumpukan Teknologi
 <p align="left">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT_NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <hr />
 
-### 🟪 Languages & Tools I Have Placed My Hands On
+### 🟪 Bahasa & Alat yang Pernah Saya Gunakan
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vscode,git,github,figma,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vscode,git,github,figma" />
   </a>
 </p>
 
 <hr />
 
-### 🟪 Analytics
+### 🟪 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haekalzeyn&show_icons=true&theme=dark&hide_border=false&title_color=ff0055&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haekalzeyn&layout=compact&theme=dark&hide_border=false&title_color=ff0055&text_color=ffffff&bg_color=0d1117" width="48%" />
-</p>
-
-<!-- Grafik Kontribusi Merah -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haekalzeyn&theme=github-compact&hide_border=true&color=ff0055" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haekalzeyn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haekalzeyn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
