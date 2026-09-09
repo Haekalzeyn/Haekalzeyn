@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- Panggil nama file gambar yang di-upload tadi -->
-  <img src="header.gif" width="100%" alt="Header Banner" />
+  <!-- Panggil file GIF yang sudah kamu upload -->
+  <img src="header.gif.gif" width="100%" alt="Header Banner" />
+
   <br />
   <br />
 
