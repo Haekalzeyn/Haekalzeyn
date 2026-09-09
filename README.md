@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Panggil nama file gambar yang di-upload tadi -->
-  <img src="download%20(3).jpg" width="100%" alt="Header Banner" />
+  <img src="header.gif" width="100%" alt="Header Banner" />
   <br />
   <br />
 
