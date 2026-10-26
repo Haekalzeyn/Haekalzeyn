@@ -7,7 +7,7 @@
 
   <!-- Teks Ketik Otomatis -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vcenter=true&width=435&lines=Halo!+Saya+Haekal;Front-end+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vcenter=true&width=435&lines=Halo!+Saya+Haekal+Zain+Muzaki;Front-end+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
